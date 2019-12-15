@@ -1,0 +1,10 @@
+.outer{
+    display: inline-block;
+    margin: 10px;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: green;
+}
