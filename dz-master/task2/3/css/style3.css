@@ -1,0 +1,14 @@
+.dor{
+    margin-top: 30px;
+    height: 150px;
+    width: 150px;
+    background-color: red;
+}
+.mam{
+    height: 300px;
+    width: 300px;
+    background-color: pink;
+}
+
+/* оба блока отступают от верхнего края */
+/* от друг друга они не оступают */
